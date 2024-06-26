@@ -1,0 +1,19 @@
+.week-planner {
+  font-family: var(--font-interface);
+}
+
+.week-planner #header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.week-planner #planner-grid {
+  display: grid;
+  grid-template-columns: auto repeat(7, 1fr);
+  gap: 1px;
+  background-color: var(--background-modifier-border);
+}
+
+/* More styles... */

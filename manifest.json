@@ -1,0 +1,10 @@
+{
+  "id": "plan-and-block",
+  "name": "Plan and Block",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "A week planner plugin for Obsidian.",
+  "author": "endlessblink",
+  "authorUrl": "https://github.com/endlessblink",
+  "isDesktopOnly": false
+}
